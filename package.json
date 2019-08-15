@@ -1,0 +1,14 @@
+{
+  "name": "fight-club-bot",
+  "version": "1.0.0",
+  "description": "Fight Club Bot",
+  "main": "bot.js",
+  "author": "Annelise",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "eslint": "^6.1.0",
+    "profanities": "^2.11.0",
+    "winston": "^3.2.1"
+  }
+}
